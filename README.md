@@ -1,3 +1,3 @@
 # Notes
 
-Repo for storing few cheatsheets
+Repo for storing `*.md` notes.
