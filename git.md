@@ -2,14 +2,14 @@
 
 ## Dictionary
 
-| term name       | description                                          |
-| --------------- | ---------------------------------------------------- |
-| index           | staging area                                         |
-| HEAD            | pointer to the local branch you’re currently on      |
-| fast-forward    | when merging branch which is ahead os current branch |
-| tracking branch | local branch with connection to remote branch -      |
-|                 | doing `pull`/`push` will modify upstream pointer     |
-| upstream branch | remote branch that is tracked by tracking branch     |
+| term name       | description                                              |
+| --------------- | -------------------------------------------------------- |
+| index           | staging area                                             |
+| HEAD            | pointer to the local branch you’re currently on          |
+| fast-forward    | situation when merging branch is ahead of current branch |
+| tracking branch | local branch with connection to remote branch -          |
+|                 | doing `pull`/`push` will modify upstream pointer         |
+| upstream branch | remote branch that is tracked by tracking branch         |
 
 ## Recording changes to repo
 
@@ -217,7 +217,7 @@ Move branch backward (reset changes)
 git reset <commit>
 ```
 
-Reset change
+[More about `git reset`](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified)
 
 ## Working with remotes
 
@@ -331,13 +331,13 @@ git branch --move bad-branch-name corrected-branch-name
 Add remote branch
 
 ```
-git push --set-upstream origin corrected-branch-name
+git push --set-upstream origin branch-name
 ```
 
 Delete remote branch
 
 ```
-gi push origin --delete bad-branch-name
+git push origin --delete bad-branch-name
 ```
 
 ### Remote branching
@@ -360,7 +360,7 @@ Pushing (if remotebranch doesn't exists, creates it)
 git push <remote> localbranch:remotebranch
 ```
 
-Often shorter version can be used, remote branch have same name
+Often shorter version can be used, if remote branch have same name
 
 ```
 git push <remote> <branch>
@@ -508,3 +508,29 @@ git add -i
 ```
 
 ### Stashing and cleaning
+
+Put dirty state on stash stack
+
+```
+git stash [push] -u
+```
+
+List stashes
+
+```
+git stash list
+```
+
+```
+git stash pop --index
+```
+
+### Searching through code base
+
+```
+git grep <pattern> <tree>
+```
+
+### Rewriting history
+
+[check this link](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)
