@@ -148,7 +148,7 @@ Brak wyrażenie zgody zachodzi np przy ataku phishingowym
 
 ### Procedura odzyskiwania pieniędzy
 
-1. Zgłoszenie faktu bankowi (do 13 dni od zaistnienia tranzakcji, wpp - traci
+1. Zgłoszenie faktu bankowi (do 13 miesięcy od zaistnienia tranzakcji, wpp - traci
 prawo do zwrotu środków).
 2. Zgłoszenie na policję
 3. Bank ma obowiązek zrócić środki najpóźniej następnego dnia roboczego
