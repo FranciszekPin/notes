@@ -187,30 +187,20 @@ telekomunikacyjnych
 
 Zabronione czyny, zdefiniowane w poszczególnych ustawach
 
+  - prowadzenie działalności bez zezwolenia (lub wpisu do rejestru -
+    instytucje pożyczkowe)
+  - bycie pośrednikiem bez zezwolenia
+  - używanie nazwy 'bank', 'kasa', 'działalność ubezpieczeniowa' 
+    lub 'reasekuracyjna'
+  - niwypełnienie obozwiązku informacyjnego
+  - niewypełnienie wewnętrznej kontroli danych
+  - ujawnienie tajemnicy bankowej/ubezpieczeniowej
+
 * usługi bankowe - ustawa prawo bankowe
-  - prowadzenie działalności bez zezwolenia
-  - bycie pośrednikiem bez zezwolenia
-  - używanie nazwy 'bank' lub 'kasa'
-  - niespełnienie obowiązku informacyjnego
-  - ujawnienie tajemnicy bankowej
-  - niespełnienie wewnętrznej kontroli danych
-
 * usługi pożyczkowe - ustawa o kredycie konsumenckim
-  - prowadzenie działalności bez wpisu do rejestru
-  - bycie pośrednikiem bez zezwolenia
-  - ujawnienie tajemnicy bankowej
-  - niespełnienie obowiązku informacyjnego
-
 * kredyt hipoteczny - ustawa o kredycie hipotecznym
-  - udzielanie kredytu hipotecznego niebędąc kredytodawcą (zezwolenie)
-  - pośredniczenie w udzielaniu kredytu bez zezwolenia
-  
 * usługi ubezpieczeniowe - ustawa o działalności ubezpieczeniowej i
-reasekuracyjnej
-  - działalność bez zezwolenia
-  - bycie przedstawicielem bez zezwolenia
-  - używanie wyrażeń "działalność ubezpieczeniowa" lub "reasuekuracyjna"
-  - ujawnienie tajemnicy ubezpieczeniowej
+  reasekuracyjnej
 
 ## Wykroczenia konsumenckie (przeciw interesom konsumentów)
 * spekulacja bieltami
